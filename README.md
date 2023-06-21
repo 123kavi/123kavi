@@ -1,5 +1,4 @@
 
-[![MasterHead](https://media4.giphy.com/media/4ww8vM5YOszoJIFAiT/giphy.gif)](https://rishavchada.io)
 <h1 align="center">Hi 👋, I'm Ravihansi Kariyapperuma</h1>
 <h3 align="center">A passionate frontend and Backend developer from Sri Lanka</h3>
 

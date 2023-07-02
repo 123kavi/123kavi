@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Itkavihansi7](https://medium.com/@Itkavihansi7)
 
-- 💬 Ask me about **Android , Java, Mearn**
+- 💬 Ask me about **Java , SpringBoot, Mearn**
 
 - 📫 How to reach me **kavihansi98@gmail.com**
 
